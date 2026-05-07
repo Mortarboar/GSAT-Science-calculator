@@ -29,8 +29,8 @@
 2. 使用瀏覽器（Chrome, Safari, Edge）開啟即可使用。
 
 ### Android 版 (APK)
-1. 本專案可透過 WebIntoApp 等工具轉換為 APK 安裝檔。
-2. 安裝後即可在手機桌面作為獨立 App 使用。
+1. 本專案透過 WebIntoApp 轉換為 APK 安裝檔。
+2. 安裝後即可在手機作為獨立 App 使用。
 
 ## 開源聲明與授權
 
